@@ -22,4 +22,5 @@ Cloning a repo makes a local copy of the repo
 4) Click clone existing repository
 5) Fill in the name of your repository and confirm the local path is correct
 6) Click clone
+7) Your files will now be in the local directory you specified in step 5
 ![clone gif](/clone-vid.gif)
